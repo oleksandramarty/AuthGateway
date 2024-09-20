@@ -1,0 +1,15 @@
+
+*.xml
+AuthGateway.ClientApi/obj/AuthGateway.ClientApi.csproj.nuget.dgspec.json
+AuthGateway.ClientApi/obj/AuthGateway.ClientApi.csproj.nuget.g.props
+AuthGateway.ClientApi/obj/AuthGateway.ClientApi.csproj.nuget.g.targets
+AuthGateway.ClientApi/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+AuthGateway.ClientApi/obj/Debug/net9.0/AuthGateway.ClientApi.AssemblyInfo.cs
+AuthGateway.ClientApi/obj/Debug/net9.0/AuthGateway.ClientApi.AssemblyInfoInputs.cache
+AuthGateway.ClientApi/obj/Debug/net9.0/AuthGateway.ClientApi.assets.cache
+AuthGateway.ClientApi/obj/Debug/net9.0/AuthGateway.ClientApi.GeneratedMSBuildEditorConfig.editorconfig
+AuthGateway.ClientApi/obj/Debug/net9.0/AuthGateway.ClientApi.GlobalUsings.g.cs
+AuthGateway.ClientApi/obj/project.assets.json
+AuthGateway.ClientApi/obj/project.nuget.cache
+AuthGateway.ClientApi/obj/project.packagespec.json
+AuthGateway.ClientApi/obj/rider.project.restore.info

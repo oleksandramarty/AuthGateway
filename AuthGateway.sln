@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthGateway.ClientApi", "AuthGateway.ClientApi\AuthGateway.ClientApi.csproj", "{3E7AA8E6-AE72-4EF0-BF35-65042919F02B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E7AA8E6-AE72-4EF0-BF35-65042919F02B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7AA8E6-AE72-4EF0-BF35-65042919F02B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7AA8E6-AE72-4EF0-BF35-65042919F02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7AA8E6-AE72-4EF0-BF35-65042919F02B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
